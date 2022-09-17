@@ -1,3 +1,3 @@
 # Repositório para práticas das aulas da NLW eSports da Rocketseat
 ## Tecnologias Utilizadas:
-### React, TypeScript, NodeJS, Tailwind
+### React, TypeScript, Tailwind
